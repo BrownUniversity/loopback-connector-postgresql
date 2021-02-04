@@ -1,3 +1,27 @@
+2020-12-07, Version 5.3.0
+=========================
+
+ * fix: enable pool error handling (Matthew Gabeler-Lee)
+
+
+2020-11-10, Version 5.2.1
+=========================
+
+ * Ensure order of and/or clauses are preserved (Raymond Feng)
+
+
+2020-10-06, Version 5.2.0
+=========================
+
+ * test: clean test for `contains` operator (Miroslav Bajtoš)
+
+ * test: fix array tests to handle List values (Miroslav Bajtoš)
+
+ * docs: improve README organization (Miroslav Bajtoš)
+
+ * feat: adds 'contains' operator for querying arrays (shubhisood)
+
+
 2020-09-01, Version 5.1.0
 =========================
 
